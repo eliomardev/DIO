@@ -1,0 +1,16 @@
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.exe
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.deps.json
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.runtimeconfig.json
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.runtimeconfig.dev.json
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.dll
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\ref\Leo.Bank.dll
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\bin\Debug\net5.0\Leo.Bank.pdb
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.csprojAssemblyReference.cache
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.AssemblyInfoInputs.cache
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.AssemblyInfo.cs
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.csproj.CoreCompileInputs.cache
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.dll
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\ref\Leo.Bank.dll
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.pdb
+C:\Users\eliom\Documents\DIO\dio-dotnet-poo-leo_bank\Leo.Bank\obj\Debug\net5.0\Leo.Bank.genruntimeconfig.cache
